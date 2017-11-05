@@ -11,6 +11,10 @@
 *.ilk
 *.map
 *.exp
+*.dep
+*.ewd
+*.ewp
+*.ewt
 
 # Precompiled Headers
 *.gch
@@ -45,6 +49,10 @@
 # Kernel Module Compile Results
 *.mod*
 *.cmd
+
+Release/*
+settings/*
+
 .tmp_versions/
 modules.order
 Module.symvers
